@@ -1,0 +1,4 @@
+SYNC_CHECKLIST.md
+__pycache__/
+*.pyc
+.DS_Store
